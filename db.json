@@ -1,0 +1,19 @@
+{
+  "feedback": [
+    {
+      "id": 1,
+      "rating": 10,
+      "text": "this is a feedback... its coming from the backend created using json-server package"
+    },
+    {
+      "id": 2,
+      "rating": 1,
+      "text": "this is a feedback... its coming from the backend created using json-server package"
+    },
+    {
+      "id": 3,
+      "rating": 9,
+      "text": "this is a feedback... its coming from the backend created using json-server package"
+    }
+  ]
+}
